@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @fikryakrom
-- 👀 I’m interested in ...
--     public health and big data
-- 🌱 I’m currently learning ...
--     data analysis, data processing, data management
-- 💞️ I’m looking to collaborate on ...
--     health and big data learning
-- 📫 How to reach me ...
--     DM me on my ig (same uname)
+# Hi There! 😁
+### Welcome to my GitHub Portofolio
+
+#### Here's some things you may need to know about me
+- I'm a final year undergraduate student majoring Public Health Epidemiology, Universitas Indonesia
+- Recently, I grow fond of big data and data analysis, and I intent to gain my skill by collaborating in this platform
+- I'm a newbie in all of this coding and technological area, so I'm all ears
+
+#### Find another side of me on
+- Ig @fikryakrom
+- LinkedIn @fikryakrom
+
+#### See you soon, let's connect and grow together
 
 <!---
 fikryakrom/fikryakrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
