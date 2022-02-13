@@ -1,4 +1,4 @@
-# Hi There! 😁
+# Hi There, I'm Fikry! 😁
 ### Welcome to my GitHub Portofolio
 
 #### Here's some things you may need to know about me
